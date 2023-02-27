@@ -1,4 +1,4 @@
-# Case-Study-1---Danny-s-Diner-SQL
+# Case-Study--Danny-s-Diner-SQL
 ![1](https://user-images.githubusercontent.com/119277783/211076706-0632b282-2470-488a-b289-674633e46dac.png)
 
 Introduction
